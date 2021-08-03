@@ -1,0 +1,76 @@
+@media screen and (max-width:768px) {
+    .display-none {
+        display: unset;
+    }
+}
+@media screen and (max-width:900px){
+    .ul-li ul{
+        width: 60%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .comp {
+        margin: 0px 20px;
+        position: inherit;
+    }
+}
+@media screen and (max-width:768px) {
+    .ul-li {
+        display: none;
+    }
+}
+@media screen and (max-width:900px) {
+    .first-input {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media screen and (max-width:1200px)  {
+    .James-div {
+        display: none;
+    }
+}
+@media screen and (max-width:900px) {
+    .banner-area {
+        width: 300px;
+        height: 480px;
+    }
+}
+@media screen and (max-width:768px) {
+    .second-sect {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .second-footer-sect {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-top: 7%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .clients {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .clients div {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:1200px) {
+    .main-footer-div {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .second-input {
+        display: none;
+    }
+}
